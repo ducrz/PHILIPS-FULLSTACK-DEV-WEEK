@@ -1,0 +1,78 @@
+Aula 1:
+
+Configurando / Preparando o Ambiente
+
+Base de Dados - DATASUS
+
+O que é um Banco de Dados Relacional?
+
+Instalando o MYSQL.
+
+Instalando/falando sobre as IDEs.
+
+
+
+Base de dados - DATASUS
+
+Tabnet:  http://w3.datasus.gov.br/siscam/index.php?area=0402
+
+
+---
+
+Modelo Relacional de Banco de Dados
+
+
+Instalação mysql
+
+
+mysql-server mysql-client
+
+
+mysql_secure_installation
+
+
+
+IDE UTILIZADA
+
+
+Intellij IDE
+
+
+
+SPRING BOOT
+
+https://start.spring.io
+
+
+
+Framework Angular
+
+NodeJS
+AngularCLI
+Visual Studio Code
+
+
+NODEJS
+
+https://nodejs.org/en/
+
+https://nodejs.org/en/download/package-manager/
+
+https://snapcraft.io/node
+
+sudo snap install node --classic
+
+
+
+ANGULAR
+
+sudo npm install -g @angular/cli
+
+ng version
+
+
+Visual Studio Code
+
+https://code.visualstudio.com
+
+
