@@ -1,1 +1,67 @@
 Aula 3: Criando API Web com Angular
+
+Segunda aula da Philips Dev Week: Criando uma Interface Web com Angular.
+
+
+Angular
+
+https://angular.io
+
+
+ng new angulardevweek - Criando projeto
+
+npm install - Instalando Dependências
+
+ng serve- iniciar aplicação
+
+
+Mat Toolbar
+https://material.angular.io/components/toolbar/overview
+
+
+Angular Material
+ng add @angular/material
+
+
+
+Criar novo módulo
+
+ng g m ocorrencias --routing
+
+
+Criar novo componente
+
+ng g c /ocorrencias/ocorrencias
+
+
+Lazy Loading
+
+https://angular.io/guide/lazy-loading-ngmodules
+
+
+Criando Interfaces
+
+ng g interface /ocorrencias/model/regiao
+
+ng g interface /ocorrencias/model/ocorrencia
+
+ng g interface /ocorrencias/model/faixaetaria
+
+
+Criando Serviços
+
+ng g service /ocorrencias/service/regiao
+ng g service /ocorrencias/service/ocorrencia
+ng g service /ocorrencias/service/faixa-etaria
+
+
+Angular Sort Header
+
+https://material.angular.io/components/sort/overview
+
+Angular Material Card
+
+Angular Material Card
+
+
+
