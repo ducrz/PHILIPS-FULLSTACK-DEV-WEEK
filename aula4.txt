@@ -1,1 +1,41 @@
 Aula 4: Integrando Back/Front e acessando Dados
+
+
+Terceira aula da Philips Dev Week: Integrando o Backend com Frontend e Testes com a API.
+
+
+A Philips Dev Week é uma semana com aulas exclusivas para você construir junto com experts um Sistema de Consulta para Tratamento de Câncer de Mama do SUS.
+
+De 08/03 a 11/03 - embarque nesta missão de construir um app do zero em 4 dias.
+
+
+
+Folder frontAngularMock
+
+ng serve
+
+
+localhost:4200/exames
+
+
+Folder devweek
+
+
+Ajustando erros de CORS policy
+
+Usando o Proxy
+
+ng serve --proxy-config proxy.conf.js
+
+npm run start
+
+Rodando já integrado com o Spring
+http://localhost:4200/exames
+
+
+Testes 
+
+Folder devWeekJavaTest
+
+
+Fim da Philips Dev Week.
